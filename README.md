@@ -41,11 +41,17 @@ I embed directly with customers and ship production AI systems fast. My work sit
 ---
 ## 🛠️ Tech Stack
 **AI/ML** · RAG Systems · Agentic Workflows · Fine-tuning (LoRA/QLoRA) · Multi-agent Systems · Prompt Engineering · Evaluation Frameworks
+
 **Languages** · Python · Java · C++ · JavaScript
+
 **Infrastructure** · AWS (EC2, EKS, SageMaker) · Azure (AKS, DevOps) · Kubernetes · Docker · Terraform · CI/CD
+
 **Frameworks** · LangChain · LlamaIndex · Ollama · LangSmith · RAGAS · Django · React · MCP
+
 **Databases** · Qdrant · PostgreSQL (PGVector) · DynamoDB · MongoDB · Redis · MySQL
+
 **Compliance** · SOC 2 · GDPR · Data Sovereignty · AI Guardrails
+
 ---
 ## 📚 Education
 🎓 **MIT** — Executive Education, Responsible AI (2024)
