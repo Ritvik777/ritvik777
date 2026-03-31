@@ -49,15 +49,23 @@ I embed directly with customers and ship production AI systems fast. My work sit
 ---
 ## 📚 Education
 🎓 **MIT** — Executive Education, Responsible AI (2024)
+
 🎓 **California State University, Fresno** — M.S. Computer Science (2022–2024)
+
 🎓 **KIIT University** — B.S. Computer Science (2017–2021)
+
 ---
 ## 🏢 Experience
 **Dauji AI** — First Founding Engineer *(Aug 2025 – Present)*
+
 **Fresno County Office of Education** — Software Engineer *(Dec 2024 – Nov 2025)*
+
 **Fresno State Transportation Institute** — Graduate Research Fellow *(Apr 2024 – Dec 2024)*
+
 **Tata Consultancy Services** — Assistant System Engineer *(Dec 2020 – Aug 2022)*
+
 **CryptoStock** — Founding Engineer *(Jun 2019 – Dec 2019)*
+
 ---
 <p align="center">
   <i>I thrive in the gap between "we have a model" and "it's in production." Let's build something.</i>
