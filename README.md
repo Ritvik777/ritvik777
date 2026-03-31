@@ -1,5 +1,6 @@
 # Hey, I'm Ritvik Gaur 👋
 **Forward Deployed Engineer** · San Jose, CA
+
 I build and ship AI systems where delivery is urgent, ambiguity is the default, and model performance matters. 4+ years owning end-to-end execution of high-stakes AI deployments — from discovery through production. Founding engineer (2x), open-source contributor impacting **1.2M+ users**, and Anthropic security researcher (CVE).
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ritvikgaur)
 [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=flat)](https://huggingface.co/ritvikgaur)
