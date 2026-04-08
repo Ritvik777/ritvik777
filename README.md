@@ -15,28 +15,6 @@ I embed directly with customers and ship production AI systems fast. My work sit
 - 🔬 Published **6 peer-reviewed papers** in AI/ML research
 - 🛡️ Discovered defense-in-depth failures in Claude Computer Use Sandbox (CVE)
 ---
-## 🏗️ Notable Work
-| Project | Impact |
-|---|---|
-| **HuggingFace Contribution Graph** | Shipped feature impacting 1.2M users; recognized by CEO Clem Delangue |
-| **Medical Diagnosis LLM** | Fine-tuned Mistral-7B with LoRA; 5K downloads in 30 days |
-| **RAG Performance Optimization** | Architected hybrid retrieval (PGVector → Qdrant); cut latency from 8s → <4s, 75% cost reduction |
-| **Enterprise LLM Deployment** | On-prem LLM serving 10K+ users with AI governance & prompt injection defenses |
-| **LLM Evaluation Framework** | Built eval pipeline (OpenAI Evals, RAGAS, LLM-as-judge) catching 3 critical pre-deployment regressions |
----
-## 🎤 Developer Relations & Content
-
-### Technical Writing
-- **[Understanding RAG in AI Pipelines](https://medium.com/@ritvikgaur)** — Hands-on guide with LangGraph, Qdrant, and embeddings
-- **[MCP vs API](https://medium.com/@ritvikgaur)** — Code-first comparison of Model Context Protocol vs REST APIs
-- **[LLMs vs AI Agents](https://medium.com/@ritvikgaur)** — Breakdown of standalone LLMs vs tool-using autonomous agents
-- **[Vector Database Basics with Qdrant](https://medium.com/@ritvikgaur)** — Foundational intro to embeddings and similarity search
-- **[Moltbot System Architecture](https://linkedin.com/in/ritvikgaur)** — Non-technical explainer of an AI agent's architecture *(LinkedIn Article)*
-- **[Medium Profile](https://medium.com/@ritvikgaur)** — Ongoing technical writing on AI engineering and system design
-
-### Live Demos & Walkthroughs
-- **[RAG Pipeline](https://medium.com/@ritvikgaur)** — Live walkthrough of building a RAG system end to end
-- **[MCP vs API](https://medium.com/@ritvikgaur)** — Live demo of building an MCP server and connecting it with Claude
 
 ---
 ## 🛠️ Tech Stack
